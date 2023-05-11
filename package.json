@@ -1,13 +1,13 @@
 {
-  "name": "10tut",
+  "name": "INF653Final",
   "version": "1.0.0",
-  "description": "Express tutorial",
+  "description": "Final Proj",
   "main": "server.js",
   "scripts": {
     "start": "node server",
     "dev": "nodemon server"
   },
-  "author": "Dave Gray",
+  "author": "Taher Alhaidar",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
